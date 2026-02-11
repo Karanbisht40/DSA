@@ -1,4 +1,4 @@
-
+import java.util.*;
 
 //revese an array  
 public class Reverse {
