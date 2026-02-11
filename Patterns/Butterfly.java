@@ -47,6 +47,8 @@ public class Butterfly {
      System.out.println(" ");
     }
 }
+
+//main
     public static void main(String[] args) {
         butterflycalcu(5);
     }
