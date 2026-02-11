@@ -16,7 +16,7 @@ public class Reverse {
         }
     }
 
-    
+//main     
     public static void main(String[] args) {
         int number[]= {8,45,85,2,5};   
 
