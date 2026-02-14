@@ -1,4 +1,4 @@
-
+import java.util.*;
 public class FunOver {
 
     public static int sum(int a, int b) {
