@@ -6,9 +6,9 @@
 //***  ***
 //**    **
 //*      *
-
+ import java.util.*;
 public class Butterfly {
-          
+          //main logic
      public static void butterflycalcu(int n){
         // 1st half
         for(int i =1; i<=n;i++){
