@@ -1,6 +1,4 @@
 import java.util.Scanner;
-
-
 class Solution {
     public static void printNumber() {
      Scanner sc = new Scanner(System.in);
