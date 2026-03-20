@@ -62,7 +62,7 @@ public int firstOcc(int nums[], int target){
 
          if(nums[mid]== target){
             first  = mid;
-            high = mid-1;
+            high = mid-1; //First occurence chye to piche aayge
          }else if(nums[mid] < target){
             low = mid +1;
          } else{
@@ -84,7 +84,7 @@ public int lastOcc(int nums[], int target){
 
         if(nums[mid]== target){
             last = mid;
-            low = mid +1;
+            low = mid +1; // last occurence cyye to aage jyge
         }else if(nums[mid] < target){
             low = mid+1;
      } else{
