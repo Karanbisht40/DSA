@@ -19,6 +19,8 @@ class Solution {
             }
         }
         return student;
+
+        //function\
     }
 
     public int findPages(int[] nums, int m) {
