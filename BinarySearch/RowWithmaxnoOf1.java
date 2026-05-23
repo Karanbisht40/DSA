@@ -1,5 +1,5 @@
 class Solution {
-
+   //lower bound concept
     public int lowerBound(int[] arr, int n, int x) {
         int low = 0;
         int high = n - 1;
@@ -18,7 +18,7 @@ class Solution {
         return ans;
     }
 
-    public int rowWithMax1s(int[][] matrix, int n, int m) {
+    public int RowWithmaxnoOf1(int[][] matrix, int n, int m) {
 
         int cn_max = 0;
         int idx = -1;
