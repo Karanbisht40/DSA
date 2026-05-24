@@ -1,4 +1,4 @@
-package BinarySearch;
+
 
 //using upper bound and lower bound
 public class firstAndLastOccurence {
