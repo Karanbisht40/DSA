@@ -14,7 +14,7 @@ public class MinimizeTheMaxdisGasStation {
             count += numberInBetween; //total number of additional gas stations required
         }
 
-        return count;  //total number of additional gas stations required
+        return count;  //total number of additional gas stations req
     }
 
     // Method to minimize the maximum distance between gas stations
