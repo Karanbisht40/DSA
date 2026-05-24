@@ -1,6 +1,6 @@
 
 package BinarySearch;
-
+//class
 public class FindOutHowManyTimeRotated {
 
     class Solution {

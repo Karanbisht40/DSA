@@ -52,6 +52,7 @@ class Solution {
     }
 }
 
+//funtion
 public int countOccurrences(int[] arr, int target) {
     int[] ans = firstAndLastPosition(arr, target);
     if (ans[0] == -1)
