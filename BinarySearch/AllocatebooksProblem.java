@@ -1,5 +1,4 @@
-import java.util.Arrays;
-
+// allocate books problem
 class Solution {
 
     public static int countStudent(int[] arr, int pages) {
