@@ -1,4 +1,4 @@
-
+// class first occurance
 class Solution {
     public int firstOcc(int nums[], int target) {
         int n = nums.length;
@@ -6,6 +6,7 @@ class Solution {
         int high = n - 1;
         int first = -1;
 
+        //bs
         while (low <= high) {
             int mid = low + (high - low) / 2;
 

@@ -1,5 +1,6 @@
 class Solution {
-
+   
+// function
     public boolean canPlace(int[] nums, int k, int d){
         int cnt = 1;
          int lastpos = nums[0];
