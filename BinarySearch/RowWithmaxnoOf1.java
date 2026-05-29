@@ -1,3 +1,4 @@
+// new
 class Solution {
    //lower bound concept
     public int lowerBound(int[] arr, int n, int x) {
