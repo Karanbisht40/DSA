@@ -49,8 +49,8 @@ class Mergesort {
 
 public class Main {
     public static void main(String[] args) {
-        int[] arr = {5, 2, 8, 4, 1};
-        Solution sol = new Solution();
+        int[] arr = { 5, 2, 8, 4, 1 };
+        LengthOfLL sol = new LengthOfLL();
         sol.mergeSort(arr, 0, arr.length - 1);
         for (int num : arr)
             System.out.print(num + " ");
