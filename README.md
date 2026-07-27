@@ -161,7 +161,7 @@ If you find this repository helpful,
 
 ### ⭐ Don't forget to Star the repository!
 
-It motivates me to keep learning and sharing.
+It motivates me to keep learning and sharing
 
 ---
 
