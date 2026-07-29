@@ -9,6 +9,7 @@
  * }
  */
 class Solution {
+    //solution
     public ListNode middleNode(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
