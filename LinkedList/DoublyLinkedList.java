@@ -139,7 +139,7 @@ public class DoublyLinkedList {
 
     }
 
-
+   // at kth position
     static Node insertAtKth(Node head,int k, int val){
         if(k==1) return insertAtHead(head, val);
 
