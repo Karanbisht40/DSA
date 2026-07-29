@@ -177,6 +177,4 @@ It motivates me to keep learning and sharing
 
 ---
 
-### ⭐ Happy Coding! 🚀
-
 </div>
