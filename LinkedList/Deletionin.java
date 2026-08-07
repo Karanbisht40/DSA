@@ -10,6 +10,7 @@ class Node {
 
 public class Deletionin {
 
+     
     // Delete first node
     // public Node deleNode(Node head) {
     //     if (head == null) {
