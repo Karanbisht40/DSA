@@ -38,11 +38,11 @@ The repository is organized by topic, making it easier to navigate and review so
 - `Array/`
 - `Basic/`
 - `BinarySearch/`
-- `Functionss/`
+- `Functions/`
 - `LinkedList/`
 - `Math/`
 - `Patterns/`
-- `recursion/`
+- `Recursion/`
 - `String/`
 
 ## How to Use
@@ -64,7 +64,7 @@ The repository is organized by topic, making it easier to navigate and review so
 
 - Java
 - VS Code (recommended)
-- Git / GitHub
+- Git/GitHub
 
 ## Notes
 
