@@ -1,5 +1,5 @@
 import java.util.*;
-
+// This program prints numbers from n to 1 using recursion
 public class PrintNumberUsingrecursion {
     public static void printNumber(int n) {
         if (n <= 0) {
