@@ -1,6 +1,6 @@
 class Solution {
     List<List<String>> result = new ArrayList<>();
-    int N;
+        int N;
 
     // Ye check karega ki row,col par Queen rakh sakte hain ya nahi
     boolean isValid(List<String> board, int row, int col) {
@@ -38,9 +38,7 @@ class Solution {
         if (row >= N) {
             result.add(new ArrayList<>(board));
             return;
-        }
-
-
+        } 
         // Current row mein har column try karo
         for (int col = 0; col < N; col++) {
             // Check karo ki current position safe hai ya nahi
